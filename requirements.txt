@@ -1,3 +1,8 @@
 Flask
-# Vercel의 Python 빌더가 내부적으로 필요로 합니다.
-vercel-python
+Flask-SocketIO
+python-socketio
+python-engineio
+cryptography
+gevent
+gevent-websocket
+gunicorn
